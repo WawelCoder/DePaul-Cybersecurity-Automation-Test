@@ -1,2 +1,1 @@
-# DePaul-Cybersecurity-Automation-Test
-This is a test repo that is used for testing purposes only.......
+This is a sample readme
